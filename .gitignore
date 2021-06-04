@@ -3,3 +3,4 @@ bazel-HelloWorld
 bazel-out
 bazel-testlogs
 .idea/
+.cache/
