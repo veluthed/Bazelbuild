@@ -4,9 +4,9 @@ Simple Demo to build Java code using Bazel
 
 git clone https://github.com/veluthed/Bazelbuild.git ; cd Bazelbuild/
 
-docker build -t test-bazel
+docker build -t test-bazel .
 
-docker run -it -v ${PWD}:/home/bazeluser tes-bazel
+docker run -it -v ${PWD}:/home/bazeluser test-bazel
 
 To build 
 
