@@ -1,6 +1,7 @@
 # Bazelbuild
 Simple Demo to build Java code using Bazel
 
+This project demonstrates how to compile, build and ship java file using Bazel. 
 
 git clone https://github.com/veluthed/Bazelbuild.git ; cd Bazelbuild/
 
