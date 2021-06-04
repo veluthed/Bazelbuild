@@ -1,7 +1,7 @@
 # Bazelbuild
-Simple Demo to build Java code using Bazel
+Simple Demo to build Java code using Bazel.
 
-This project demonstrates how to compile, build and ship java file using Bazel. 
+You can either download the executable called HelloWorld_deploy.jar under out/artifacts/HelloWorld_jar/ or follow below steps to build it locally.
 
 git clone https://github.com/veluthed/Bazelbuild.git ; cd Bazelbuild/
 
