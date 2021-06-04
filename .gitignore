@@ -1,0 +1,5 @@
+bazel-bin
+bazel-HelloWorld
+bazel-out
+bazel-testlogs
+.idea/
